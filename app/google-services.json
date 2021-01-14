@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "107755593201",
+    "firebase_url": "https://farmstore-c513b.firebaseio.com",
+    "project_id": "farmstore-c513b",
+    "storage_bucket": "farmstore-c513b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107755593201:android:d054e3452f9f0ea457f850",
+        "android_client_info": {
+          "package_name": "com.example.farmstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107755593201-ta3kib4cb220uskav8r0112mhc6664fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZhTFLLrmo33Cx9GRJ3a3B076ca0oExwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107755593201-ta3kib4cb220uskav8r0112mhc6664fv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
